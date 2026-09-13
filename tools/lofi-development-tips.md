@@ -2,7 +2,8 @@
 
 由 LofiSu 整理的开发与科研资源清单，涵盖编辑器配置、开发工具、AI 工作流和求职入口。
 
-- **原文**：[开发提效小tips.md](https://github.com/LofiSu/LofiSu/blob/main/%E5%BC%80%E5%8F%91%E6%8F%90%E6%95%88%E5%B0%8Ftips.md)
+- **Markdown 原文副本**：[lofi-development-tips.original.md](lofi-development-tips.original.md)
+- **上游原文**：[开发提效小tips.md](https://github.com/LofiSu/LofiSu/blob/main/%E5%BC%80%E5%8F%91%E6%8F%90%E6%95%88%E5%B0%8Ftips.md)
 - **作者 / 仓库**：[LofiSu/LofiSu](https://github.com/LofiSu/LofiSu)
 - **收录日期**：2026-09-13
 - **状态**：已收藏、已阅读；未逐项验证其中的工具。
@@ -19,4 +20,4 @@
 
 需要为具体开发任务找工具，或想补充 AI 辅助开发、科研和求职资源时，先按主题浏览这份清单。
 
-本条目保存原文入口和主题索引，后续更新以作者原文为准。
+本仓库保存 Markdown 原文快照，本条目提供副本入口和主题索引；后续更新以作者的上游原文为准。
