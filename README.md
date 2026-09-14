@@ -11,6 +11,8 @@
 | [Research Paper Writing](skills/research-paper-writing/SKILL.md) | 论文结构、段落衔接、章节写作和投稿前自审 | 完整 skill，含章节指南与示例 |
 | [AAAI 分层技能挖掘配图提示词](prompts/aaai-skill-mining.md) | 参考图驱动的手绘学术流程图 | 原始截图与文字版 |
 | [ICML 多模块框架图提示词](prompts/icml-system-diagram.md) | 多模块论文系统示意图的构图与视觉要求 | 原始长截图与文字版 |
+| [ICLR · EventBridge-RL 配图提示词](prompts/iclr-eventbridge-rl.md) | 不确定性门控与双时间尺度想象 | 原始长截图与文字版 |
+| [NeurIPS · SCOPE 配图提示词](prompts/neurips-scope.md) | 预算感知的多模态推理与世界模型想象 | 原始长截图与文字版 |
 
 ## Tools
 
@@ -25,6 +27,8 @@
 
 - [AAAI 分层技能挖掘配图](prompts/aaai-skill-mining.md)
 - [ICML 多模块框架图](prompts/icml-system-diagram.md)
+- [ICLR · EventBridge-RL 配图](prompts/iclr-eventbridge-rl.md)
+- [NeurIPS · SCOPE 配图](prompts/neurips-scope.md)
 
 ## Skills
 
