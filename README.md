@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | [paper2anything](tools/paper2anything.md) | 把论文转成 slides、海报、项目主页和传播材料 | 上游项目收藏 |
 | [开发提效小 tips · LofiSu](tools/lofi-development-tips.md) | 开发工具、AI / Prompt 工作流、UI 组件和求职资源 | Markdown 原文快照与主题索引 |
-| [Research Paper Writing](skills/research-paper-writing/SKILL.md) | 论文结构、段落衔接、章节写作和投稿前自审 | 完整 skill，含章节指南与示例 |
+| [Research-Paper-Writing-Skills · Master-cai](skills/Research-Paper-Writing-Skills/README_zh.md) | 论文结构、段落衔接、章节写作和投稿前自审 | 完整上游仓库快照，含 skill、说明与许可证 |
 | [AAAI 分层技能挖掘配图提示词](prompts/aaai-skill-mining.md) | 参考图驱动的手绘学术流程图 | 原始截图与文字版 |
 | [ICML 多模块框架图提示词](prompts/icml-system-diagram.md) | 多模块论文系统示意图的构图与视觉要求 | 原始长截图与文字版 |
 | [ICLR · EventBridge-RL 配图提示词](prompts/iclr-eventbridge-rl.md) | 不确定性门控与双时间尺度想象 | 原始长截图与文字版 |
@@ -32,20 +32,22 @@
 
 ## Skills
 
-### Research Paper Writing
+### Research-Paper-Writing-Skills · Master-cai
 
 面向 ML / CV / NLP 论文写作，重点是清楚讲出论文故事、保持段落逻辑连贯，并让论断与实验依据对应。
 
-- **入口**：[SKILL.md](skills/research-paper-writing/SKILL.md)
-- **章节指南**：[Abstract](skills/research-paper-writing/references/abstract.md) · [Introduction](skills/research-paper-writing/references/introduction.md) · [Related Work](skills/research-paper-writing/references/related-work.md) · [Method](skills/research-paper-writing/references/method.md) · [Experiments](skills/research-paper-writing/references/experiments.md) · [Conclusion](skills/research-paper-writing/references/conclusion.md)
-- **投稿前自审**：[Paper Review](skills/research-paper-writing/references/paper-review.md)
-- **写作示例**：[Example Bank](skills/research-paper-writing/references/examples/index.md)
+- **项目**：[上游仓库](https://github.com/Master-cai/Research-Paper-Writing-Skills) · [中文说明](skills/Research-Paper-Writing-Skills/README_zh.md) · [MIT 许可证](skills/Research-Paper-Writing-Skills/LICENSE)
+- **入口**：[SKILL.md](skills/Research-Paper-Writing-Skills/research-paper-writing/SKILL.md)
+- **章节指南**：[Abstract](skills/Research-Paper-Writing-Skills/research-paper-writing/references/abstract.md) · [Introduction](skills/Research-Paper-Writing-Skills/research-paper-writing/references/introduction.md) · [Related Work](skills/Research-Paper-Writing-Skills/research-paper-writing/references/related-work.md) · [Method](skills/Research-Paper-Writing-Skills/research-paper-writing/references/method.md) · [Experiments](skills/Research-Paper-Writing-Skills/research-paper-writing/references/experiments.md) · [Conclusion](skills/Research-Paper-Writing-Skills/research-paper-writing/references/conclusion.md)
+- **投稿前自审**：[Paper Review](skills/Research-Paper-Writing-Skills/research-paper-writing/references/paper-review.md)
+- **写作示例**：[Example Bank](skills/Research-Paper-Writing-Skills/research-paper-writing/references/examples/index.md)
+- **知识来源**：据上游说明，主要来自彭思达老师的[公开学习笔记](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)与[原始仓库](https://github.com/pengsida/learning_research)，由 Master-cai 整理、结构化适配并封装为 Skills。
 - **使用与来源**：[Skills 说明](skills/README.md)
 
 ## 继续添加
 
 - 新工具：复制 [条目模板](tools/_template.md)，放到 `tools/`，再加入上方目录。
-- 新 skill：把完整技能目录放到 `skills/<skill-name>/`，包含 `SKILL.md` 及其引用文件，再加入目录。
+- 新 skill：把完整技能目录或上游仓库快照放到 `skills/<name>/`，保留 `SKILL.md`、引用文件、来源说明与许可证，再加入目录。
 - 新提示词：文字条目放到 `prompts/`，参考截图放到 `assets/prompts/`，保留来源信息。
 - 用过之后：在对应条目补充自己的使用场景和体验。
 
