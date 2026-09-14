@@ -3,7 +3,7 @@
 彭思达老师公开的论文写作笔记，覆盖写作流程、章节组织、图表呈现与投稿前自审。
 
 - **原文**：[论文写作模板（Notion）](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)
-- **文档汇总**：[pengsida/learning_research](https://github.com/pengsida/learning_research)
+- **文档汇总**：[pengsida/learning_research](https://github.com/pengsida/learning_research) · [本地仓库快照](../resources/pengsida-learning-research/README.md) · [收藏说明](learning-research.md)
 - **收录日期**：2026-09-13
 - **状态**：已收藏，已核对页面标题与目录。
 - **收录方式**：保存原文入口、内容索引和相关 skill 的链接；正文及后续更新以作者页面为准。

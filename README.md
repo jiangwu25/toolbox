@@ -9,6 +9,7 @@
 | [paper2anything](tools/paper2anything.md) | 把论文转成 slides、海报、项目主页和传播材料 | 上游项目收藏 |
 | [开发提效小 tips · LofiSu](tools/lofi-development-tips.md) | 开发工具、AI / Prompt 工作流、UI 组件和求职资源 | Markdown 原文快照与主题索引 |
 | [论文写作模板 · 彭思达](tools/peng-sida-research-notes.md) | 论文写作流程、各章节模板、图表与投稿前自审 | 原文入口与来源说明 |
+| [Learning Research · 彭思达](tools/learning-research.md) | 科研入门、选题与实验、论文写作和学术报告 | 上游仓库快照 |
 | [Research-Paper-Writing-Skills · Master-cai](skills/Research-Paper-Writing-Skills/README_zh.md) | 论文结构、段落衔接、章节写作和投稿前自审 | 完整上游仓库快照，含 skill、说明与许可证 |
 | [AAAI 分层技能挖掘配图提示词](prompts/aaai-skill-mining.md) | 参考图驱动的手绘学术流程图 | 原始截图与文字版 |
 | [ICML 多模块框架图提示词](prompts/icml-system-diagram.md) | 多模块论文系统示意图的构图与视觉要求 | 原始长截图与文字版 |
@@ -20,6 +21,7 @@
 - [paper2anything](tools/paper2anything.md) · [上游仓库](https://github.com/QuZhan51496/paper2anything) · [中文说明](https://github.com/QuZhan51496/paper2anything/blob/main/README.zh-CN.md)
 - [开发提效小 tips · LofiSu](tools/lofi-development-tips.md) · [Markdown 原文副本](tools/lofi-development-tips.original.md) · [上游原文](https://github.com/LofiSu/LofiSu/blob/main/%E5%BC%80%E5%8F%91%E6%8F%90%E6%95%88%E5%B0%8Ftips.md)
 - [论文写作模板 · 彭思达](tools/peng-sida-research-notes.md) · [Notion 原文](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)
+- [Learning Research · 彭思达](tools/learning-research.md) · [完整仓库快照](resources/pengsida-learning-research/README.md) · [上游仓库](https://github.com/pengsida/learning_research)
 
 每个工具单独记一页：它解决什么问题、什么时候值得用，以及原始链接。收藏与实际使用经验会分别记录。
 
