@@ -6,6 +6,7 @@
 
 | 名称 | 用途 | 收录方式 |
 | --- | --- | --- |
+| [Writing Science · Joshua Schimel](tools/writing-science.md) | 科研写作参考书 | PDF 原文件与来源说明 |
 | [paper2anything](tools/paper2anything.md) | 把论文转成 slides、海报、项目主页和传播材料 | 上游项目收藏 |
 | [开发提效小 tips · LofiSu](tools/lofi-development-tips.md) | 开发工具、AI / Prompt 工作流、UI 组件和求职资源 | Markdown 原文快照与主题索引 |
 | [论文写作模板 · 彭思达](tools/peng-sida-research-notes.md) | 论文写作流程、各章节模板、图表与投稿前自审 | 原文入口与来源说明 |
@@ -18,6 +19,7 @@
 
 ## Tools
 
+- [Writing Science · Joshua Schimel](tools/writing-science.md) · [PDF 原文件](resources/books/Writing_Science.pdf)
 - [paper2anything](tools/paper2anything.md) · [上游仓库](https://github.com/QuZhan51496/paper2anything) · [中文说明](https://github.com/QuZhan51496/paper2anything/blob/main/README.zh-CN.md)
 - [开发提效小 tips · LofiSu](tools/lofi-development-tips.md) · [Markdown 原文副本](tools/lofi-development-tips.original.md) · [上游原文](https://github.com/LofiSu/LofiSu/blob/main/%E5%BC%80%E5%8F%91%E6%8F%90%E6%95%88%E5%B0%8Ftips.md)
 - [论文写作模板 · 彭思达](tools/peng-sida-research-notes.md) · [Notion 原文](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)
